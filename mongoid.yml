@@ -1,0 +1,6 @@
+development:
+  sessions:
+    default:
+      database: my_app_db
+      hosts:
+        - localhost:27017
